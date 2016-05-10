@@ -1,0 +1,23 @@
+/* add your CSS here */
+body {
+	font-family: 'Roboto', sans-serif;
+}
+.interesting {
+	font-style: italic;
+}
+.bold {
+	font-weight: bold;
+}
+.style {
+	list-style-type: none;
+}
+.border {
+	border-style: solid;
+	border-width: 1px;
+}
+.space {
+	padding: 1% 1%
+}
+.bottom {
+	padding-bottom: 1%
+}
